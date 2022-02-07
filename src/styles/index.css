@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bigCounter{
+    text-align: center;
+    background: rgb(161, 35, 35);
+    
+}
+.bigCounter div{
+    display: inline-block;
+    background-image: url(https://blogs.iadb.org/ideas-que-cuentan/wp-content/uploads/sites/11/2019/03/Centroam%C3%A9rica-y-Rep%C3%BAblica-Dominicana-desaf%C3%ADos-externos-min.jpg);
+    font-size: 60px;
+    line-height: 60px;
+    background:burlywood;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+}
